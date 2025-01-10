@@ -61,7 +61,7 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
     ```sh
     echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
     PREFIX = .
-    STICKER_PACKNAME = LyFE
+    STICKER_PACKNAME = love
     ALWAYS_ONLINE = false
     RMBG_KEY = null
     LANGUAG = en
@@ -70,7 +70,7 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
     BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
     MAX_UPLOAD = 200
     REJECT_CALL = false
-    SUDO = 989876543210
+    SUDO = 254740072777
     TZ = Asia/Kolkata
     VPS = true
     AUTO_STATUS_VIEW = true
